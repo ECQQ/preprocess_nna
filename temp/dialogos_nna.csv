@@ -1,0 +1,865 @@
+"","orden","organizacion","reg_id","cod_com_ine","rango_edades_id","cantidad_participantes","contexto_id"
+"1",1,"GRUPO SCOUT RUCAMANQUI (TROPA 1)",6,6101,3,8,6
+"2",2,"LICEO   INDUSTRIAL",12,12101,4,200,1
+"3",3,"Consejo consultivo de infancia",16,16108,4,9,2
+"4",4,"Oficina Local de la Niñez Santiago",13,13101,5,20,4
+"5",5,"OPD LEBU",8,8201,4,67,2
+"6",6,"Colegio Villa Cartago",5,5603,1,13,1
+"7",7,"Fútbol Calle Municipalidad",5,5602,2,7,6
+"8",8,"ESCUELA VILLA MERCEDES 6TO BASICO",8,8309,3,10,1
+"9",9,"ESCUELA VILLA MERCEDES 6TO BASICO",8,8309,3,8,1
+"10",10,"Municipalidad de Salamanca",4,4204,3,10,1
+"11",11,"OPD",10,10109,3,7,5
+"12",12,"Oficina Local de la Niñez",4,4101,2,12,1
+"13",13,"OPD zona sur Consejo de infancia",10,10201,3,13,2
+"14",14,"OPD Rinconada y Chile crece contigo",5,5303,3,9,3
+"15",15,"Oficina Local de Niñez La Serena",4,4101,3,9,4
+"16",16,"JARDIN INFANTIL LOS PATITOS",5,5109,1,10,1
+"17",17,"Oficina Local de la Niñez",4,4101,1,14,1
+"18",18,"Escuela Jerónimo Godoy Villanueva",4,4105,3,9,1
+"19",19,"Jardín Infantil Los Sarmientos",16,16206,1,15,1
+"20",20,"Alumnos Escuela Valle de Lonquen",16,16207,1,29,1
+"21",21,"Comunidad Rural Huacanilahue",9,9111,1,10,6
+"22",22,"Colegio Jorge Williams",5,5101,3,34,3
+"23",23,"Consejo Consultivo de Niños y Niñas Santa Barbara",8,8311,5,12,2
+"24",24,"CHCC Coronel",8,8102,5,25,6
+"25",25,"Chile crece contigo",8,8204,2,18,1
+"26",26,"Consejo Consultivo Cadan",7,7406,4,11,2
+"27",27,"Liceo Agroindustrial",7,7108,2,32,1
+"28",28,"Programa Chile Crece Contigo",5,5605,1,22,1
+"29",29,"Red de Infancia y Adolescencia",5,5101,3,7,3
+"30",30,"Oficina de Protección de Derechos de NNA",5,5603,4,43,3
+"31",31,"Chile Crece Contigo",1,1403,2,15,1
+"32",32,"Departamento de salud",4,4302,2,9,1
+"33",33,"Departamento de Salud Municipal",4,4302,2,19,1
+"34",34,"Consejo Consultivo",8,8109,5,100,6
+"35",35,"OPD Maule",7,7105,5,35,1
+"36",36,"Equipo Comunal Chile Crece Contigo",5,5107,2,9,6
+"37",37,"Profesional SEREMI Desarrollo Social y Familia",5,5105,3,8,6
+"38",38,"Escuela Aonikenk",11,11402,3,10,1
+"39",39,"Liceo Roberto Húmeres",5,5701,4,60,1
+"40",40,"junta de vecino villa vista al mar",1,1107,1,15,6
+"41",41,"Jardin Infantil IKE IKE",1,1101,1,8,1
+"42",42,"Fortalecimiento Municipal Chile Crece Contigo",5,5803,2,9,1
+"43",43,"Niños programa 4 a 7",5,5105,3,6,6
+"44",44,"Programa de 4 a 7",5,5107,2,9,6
+"45",45,"Ilustre Municipalidad de El Quisco",5,5604,1,5,3
+"46",46,"Municipalidad de Primavera",12,12302,3,13,1
+"47",47,"Oficina Local de la Niñez",13,13101,1,8,1
+"48",48,"JARDIN CHASQUITA",4,4303,1,11,1
+"49",49,"Oficina Local de la Niñez Municipalidad de Santiago",13,13101,2,14,4
+"50",50,"Chile Crece Contigo",12,12402,1,2,1
+"51",51,"Escuela Santa Rita",7,7106,2,19,1
+"52",52,"Escuela Rocío",4,4302,1,30,1
+"53",53,"OPD Osorno",10,10301,3,28,1
+"54",54,"COORDINACION CHCC DIDECO ILUSTRE MUNICIPALIDAD DE POZO ALMONTE",1,1401,1,30,1
+"55",55,"Ilustre Municipalidad de Huara",1,1404,2,16,6
+"56",56,"jardin infantil IKE IKE",1,1101,1,10,1
+"57",57,"Programa Fortalecimiento Municipal Chile Crece Contigo",1,1402,2,15,1
+"58",58,"Fundacion de las Familia",3,3101,3,10,6
+"59",59,"Jardín Infantil Valle del Sol",5,5801,1,14,1
+"60",60,"programa 4a7 rabuco",5,5503,3,8,6
+"61",61,"Municipalidad de Pica",1,1405,2,13,4
+"62",62,"OFICINA PROTECCION DE DERECHOS ROMERAL",7,7306,5,20,2
+"63",63,"OPD",5,5605,1,22,1
+"64",64,"Fundacion de la Familias",3,3101,2,8,6
+"65",65,"OPD Tierna Infancia",6,6306,3,15,1
+"66",66,"OPD Viña del Mar",5,5109,4,5,2
+"67",67,"Liceo República de Brasil",14,14103,2,45,1
+"68",68,"municipalidad de talcahuano",8,8110,3,52,6
+"69",69,"OPD Cauquenes",7,7201,5,24,5
+"70",70,"Fortalecimiento Municipal Chile Crece Contigo OPD",1,1107,1,20,1
+"71",71,"Orquesta Infanto Juvenil de Barrio Norte OPD CONCEPCION",8,8101,5,30,3
+"72",72,"Chile Crece Contigo La Ligua",5,5401,3,1,6
+"73",73,"Coord Niñez Octava y ChCC Comunal",8,8204,1,8,1
+"74",74,"CHCC Coronel",8,8102,5,20,6
+"75",75,"OPD PETORCA",5,5404,5,7,2
+"76",76,"Jardín Infantíl  tía Virginia",5,5109,1,19,1
+"77",77,"Coord Niñez Octava y ChCC Comunal",8,8206,3,6,1
+"78",78,"PPF ARAUCARIA",8,8105,4,5,5
+"79",79,"Oficina de Protección de Derechos de la Niñez y la Adolescencia de Santiago",13,13101,5,18,3
+"80",80,"OPD Curicó",7,7301,4,8,3
+"81",81,"Escuela Fernando Santivan",14,14101,1,9,1
+"82",82,"Escuela Fernando Santivan",14,14101,2,10,1
+"83",83,"Ilustre Municipalidad de Punta Arenas",12,12101,1,21,1
+"84",84,"OPD San Rafael Pelarco",7,7110,3,16,1
+"85",85,"Escuela San José",5,5702,3,10,1
+"86",86,"Escuela María Teresa Del Canto",5,5702,3,27,1
+"87",87,"Escuela Fernando Santivan",14,14101,1,8,1
+"88",88,"Escuela Fernando Santivan",14,14101,2,26,1
+"89",89,"Escuela Fernando Santivan",14,14101,1,10,1
+"90",90,"OFICINA DE PROTECCION DE DERECHOS DE INFANCIA Y ADOLESCENCIA CABILDO",5,5402,3,6,3
+"91",91,"Oficina Comunal Chile Crece Contigo",5,5501,1,10,6
+"92",92,"Escuela Los Cerrillos",5,5702,3,12,1
+"93",93,"Escuela Fernando Santivan",14,14101,1,9,1
+"94",94,"OFICINA DE PROTECCION DE DERECHOS DE INFANCIA Y ADOLESCENCIA CABILDO",5,5402,2,5,5
+"95",95,"Chile Crece Contigo I Municipalidad de Limache",5,5802,1,11,6
+"96",96,"Jardín Infantil y Sala Cuna Los Paltitos",5,5109,1,21,1
+"97",97,"Programa Chile Crece Contigo Ilustre Municipalidad de Santo Domingo",5,5606,2,19,1
+"98",98,"Escuela Blas Cuevas Escuela República del Salvador  Taller de Acción Comunitaria",5,5101,5,120,1
+"99",99,"Jardín Infantil Leliantu",8,8305,1,11,1
+"100",100,"Consejo Consultivo NNA",13,13113,5,11,2
+"101",101,"Escuela Fernando Santivan",14,14202,2,10,1
+"102",102,"Escuela Fernando Santivan",14,14202,3,9,1
+"103",103,"Consejo Consultivo NNA",13,13113,5,28,2
+"104",104,"Escuela Fernando Santivan",14,14101,3,8,1
+"105",105,"Escuela Fernando Santivan",14,14202,3,8,1
+"106",106,"Escuela Fernando Santivan",14,14101,3,8,1
+"107",107,"Consejo Consultivo Magallanes",12,12101,5,16,2
+"108",108,"Oficina Local de la Niñez Municipalidad de Requínoa",6,6116,4,10,4
+"109",109,"Oficina Local de la Niñez Municipalidad de Requínoa",6,6116,3,6,4
+"110",110,"Taller PLADECO",13,13113,2,28,6
+"111",111,"Jardín Tesoros de la Tierra",4,4302,1,11,1
+"112",112,"Oficina de Protección de Derechos Chiguayante",8,8103,5,100,3
+"113",113,"Consejo Consultivo Infancia y adolescencia",4,4304,4,11,2
+"114",114,"Centro Semicerrado Concepción",8,8101,4,2,5
+"115",115,"GRUPO SCOUT RUCAMANQUI TROPA dos",6,6101,3,8,6
+"116",116,"Ilustre Municipalidad de Pencahue",7,7107,1,8,1
+"117",117,"OPD OLMUE",5,5803,3,12,6
+"118",118,"Liceo Polivalente Sara Braun",12,12101,4,27,1
+"119",119,"OPD TIERNA INFNACIA",6,6307,1,12,1
+"120",120,"OPD MOLINA",7,7304,4,15,3
+"121",121,"Consejo Consultivo NNJ San Felipe  OPD San Felipe",5,5701,4,40,2
+"122",122,"OPD",5,5604,5,8,2
+"123",123,"OPD LA HIGUERA",4,4104,3,8,3
+"124",124,"Jardin Infantil Tte Luis Cruz Martinez",13,13501,1,13,1
+"125",125,"Junta de Vecinos",9,9111,2,12,4
+"126",126,"Oficina de protección de derechos de infancia Talca y Seremi de desarrollo social Maule",7,7101,3,47,1
+"127",127,"Jardín Infantil Jerónimo Godoy Villanueva",4,4105,1,10,1
+"128",128,"opd",5,5303,3,10,2
+"129",129,"Programa de Medidas Cautelares Ambulatorias Ciudad del Niño Llanquihue y Palena",10,10101,4,3,5
+"130",130,"Jardin Infantil Vallecitos de Aysen",11,11101,1,8,3
+"131",131,"Chile Crece Contigo",8,8202,3,24,1
+"132",132,"PSA Llanquihue y Palena Fundación Ciudad del Niño",10,10101,4,5,5
+"133",133,"OPD QUILLOTA",5,5501,5,10,1
+"134",134,"OPD QUILLOTA",5,5501,4,2,1
+"135",135,"INSTITUTO IGNACIO CARRERA PINTO JUNAEB",6,6117,4,30,1
+"136",136,"Villa la Colina",3,3101,3,7,6
+"137",137,"GRUPO DE VECINOS",10,10301,5,35,6
+"138",138,"OPD Penco",8,8107,2,8,3
+"139",139,"GRUPO COMERCIO",10,10301,5,20,6
+"140",140,"opd san clemente",7,7109,5,14,2
+"141",141,"GRUPO DE VECINOS",10,10301,5,16,6
+"142",142,"DIREGENTES SOCIALES",10,10301,5,17,6
+"143",143,"Chile Crece DAEM OPD",5,5301,2,5,1
+"144",144,"GRUPO DE EMPRENDEDORAS",10,10301,5,20,6
+"145",145,"Fortalecimiento Municipal CHCC",11,11101,1,8,1
+"146",146,"OPD FREIRINA",3,3303,2,46,3
+"147",147,"Corporación Llequén",8,8301,4,9,5
+"148",148,"OPD Vichuquén",7,7309,3,10,2
+"149",149,"PRE KINDER  ESCUELA MONSEÑOR",7,7302,1,11,1
+"150",150,"Proyecto HEPI Crianza",5,5601,1,14,6
+"151",151,"SENAME",13,13120,2,10,2
+"152",152,"MISION EVANGELICA SAN PABLO DE CHILE PLA BIOBIO",8,8301,4,6,5
+"153",153,"CORPORACIÓN MISIÓN EVANGÉLICA SAN PABLO DE CHILE PROGRAMA DE MEDIDAS CAUTELARES WE NEWEN",8,8301,4,6,5
+"154",154,"Municipalidad de Quillota",5,5501,3,10,6
+"155",155,"Misión Evangélica San Pablo de Chile Programa Libertad Asistida Especial",8,8301,4,6,5
+"156",156,"RED DE PROTECCIÓN SOCIAL SANTA MARÍA Y OPD SANTA MARÍA",5,5706,3,44,1
+"157",157,"Liceo San Ignacio",7,7104,1,7,1
+"158",158,"Niñez Arauco Punta Lavapie",8,8202,2,7,6
+"159",159,"Jardín Infantil Ukika",12,12201,1,23,1
+"160",160,"Sename Los Ríos",14,14101,5,45,2
+"161",161,"Municipalidad de Río Verde",12,12103,2,7,1
+"162",162,"Residencia Ruca Suyai",14,14101,4,11,5
+"163",163,"OPD PUCHUNCAVÍ",5,5105,3,15,3
+"164",164,"Programas PSA Elqui",4,4101,4,5,5
+"165",165,"Residencia Nazareth",3,3101,1,6,5
+"166",166,"Residencia Nazareth",3,3101,2,5,5
+"167",167,"RED DE PROTECCIÓN SOCIAL SANTA MARÍA Y OPD SANTA MARIA",5,5706,4,12,1
+"168",168,"Jardín Infantil Santa Inés",14,14103,1,11,1
+"169",169,"oficina de protección de derechos",6,6102,3,5,3
+"170",170,"OPD QUILLOTA",5,5501,5,10,3
+"171",171,"Hijos de funcionarios Seremia de Desarrollo Social y Familia",3,3101,3,8,6
+"172",172,"OPD PUDAHUEL",13,13124,3,14,1
+"173",173,"OPD La Ligua y Cecrea",5,5401,5,27,6
+"174",174,"Adolescentes de Mulchén",8,8305,4,12,2
+"175",175,"Oficina de Protección de Derechos de la Infancia",8,8202,3,23,1
+"176",176,"OPD Melipilla",13,13501,5,15,2
+"177",177,"OPD Melipilla",13,13501,5,15,2
+"178",178,"Alumnos Liceo Pinto",16,16106,4,7,6
+"179",179,"Chile Crece Contigo",8,8206,3,16,1
+"180",180,"Alumnos Liceo Pinto",16,16106,4,8,1
+"181",181,"Grupo de Amigos",16,16108,4,7,6
+"182",182,"Grupo de Amigos",16,16108,4,7,2
+"183",183,"Grupo de amigos",16,16108,4,7,2
+"184",184,"OPD Pudahuel",13,13124,5,30,3
+"185",185,"Jardín Infantil Tesoritos de Escuela Coquimbo",4,4102,1,15,1
+"186",186,"OPD Pudahuel",13,13124,5,99,3
+"187",187,"municipalidad",4,4106,2,4,6
+"188",188,"Red de Infancia y Adolescencia de Pudahuel",13,13124,5,115,3
+"189",189,"jardin infantil JUNJI los grillitos de la localidad de tabaqueros",4,4305,1,6,1
+"190",190,"RED DE PROTECCIÓN SOCIAL SANTA MARÍA Y OPD SANTA MARÍA",5,5706,3,44,1
+"191",191,"RED DE PROTECCIÓN SOCIAL SANTA MARÍA Y OPD SANTA MARÍA",5,5706,4,12,1
+"192",192,"Red Comunal de la Niñez",5,5701,3,20,4
+"193",193,"CESFAM San Esteban",5,5304,4,10,2
+"194",194,"OPD PAC 24 HORAS",13,13121,5,80,6
+"195",195,"JARDIN INFANTIL Y SALA CUNA SIETE ESTRELLITAS",4,4301,1,8,1
+"196",196,"hijos de funcionarios públicos",3,3101,2,4,6
+"197",197,"Municipalidad de Concepción",8,8101,5,40,6
+"198",198,"OPD LO ESPEJO",13,13116,5,13,3
+"199",199,"Equipo Chile Crece Contigo",5,5704,1,10,6
+"200",200,"jardín los Naranjitos de JUNJI",6,6115,1,11,1
+"201",201,"GRUPO GUIAS Y SCOUTS RUCAMANQUI",6,6101,2,8,6
+"202",202,"CHCC OPD DAEM",5,5301,1,10,1
+"203",203,"municipalidad de Tirua",8,8207,5,100,3
+"204",204,"OPD Calera de Tango",13,13403,4,6,3
+"205",205,"Adolescentes",11,11102,4,9,6
+"206",206,"Oficina de niñez municipalidad de Quilicura",13,13125,5,39,6
+"207",207,"OPD COSAM",13,13112,4,15,6
+"208",208,"Oficina de niñez municipalidad de Quilicura",13,13125,5,12,6
+"209",209,"Jardín Infantil Los Naranjitos",6,6115,1,11,1
+"210",210,"Mesa infantojuvenil",14,14203,5,21,1
+"211",211,"CHILE CRECE CONTIGO OPD DAEM LOS ANDES",5,5301,3,8,1
+"212",212,"Municipalidad de Santa Cruz Niños programa familia",6,6310,2,7,6
+"213",213,"Coord Niñez Octava y ChCC Comunal",8,8204,2,6,1
+"214",214,"Coord Niñez Octava y ChCC Comunal",8,8206,3,6,1
+"215",215,"OPD Putaendo y HPV2 Putaendo y Programa de fortalecimiento municipal Red ChCC y Sala de juegos HEPI",5,5705,5,20,6
+"216",216,"Coord Niñez Octava y ChCC Comunal",8,8206,3,16,1
+"217",217,"ILUSTRE MUNICIPALIDAD DE CONCÓN",5,5103,2,47,6
+"218",218,"Colegio Timoteo Araya Alegría",7,7407,3,20,1
+"219",219,"misión ev san pablo de chile",8,8205,4,16,5
+"220",220,"OPD Rucamalen",8,8205,3,7,5
+"221",221,"OPD CALAMA",2,2201,4,3,5
+"222",222,"OPD Las Compañías",4,4101,5,13,3
+"223",223,"Opd de la comuna de Llay Llay",5,5703,4,4,2
+"224",224,"Fundación Crate Hogar San Francisco",7,7304,4,6,5
+"225",225,"OPD Calama",2,2201,2,6,5
+"226",226,"OPD COQUIMBO",4,4102,3,10,1
+"227",227,"Corporación Misión Evangélica San Pablo de Chile",8,8102,4,16,5
+"228",228,"OPD COQUIMBO",4,4102,1,23,1
+"229",229,"OPD Rucamalen",8,8205,4,6,2
+"230",230,"OPD COQUIMBO SENAME",4,4102,2,10,2
+"231",231,"OPD COQUIMBO SENAME",4,4102,1,25,1
+"232",232,"OPD COQUIMBO SENAME",4,4102,1,25,1
+"233",233,"Junta de vecinos Presidente Lagos",9,9111,3,12,4
+"234",234,"Junta de vecinos Imperial",9,9111,4,17,3
+"235",235,"Hepi Crianza Chile Crece Contigo",3,3303,1,7,6
+"236",236,"Centro de Infancia",3,3303,2,5,6
+"237",237,"Centro de Infancia",3,3101,2,5,6
+"238",238,"Centro de Infancia",3,3101,2,5,6
+"239",239,"Centro de Infancia",3,3303,3,10,6
+"240",240,"Oficina Local de la Niñez",1,1101,1,4,6
+"241",241,"SENAME    CIP CRC LA SERENA",4,4101,4,7,6
+"242",242,"consejo consultivo NNA",10,10105,2,6,2
+"243",243,"Jardin Infantil Blanca Nieves",10,10105,1,3,1
+"244",244,"I Municipalidad de Coinco",6,6103,1,7,6
+"245",245,"Oficina Local de la Niñez",1,1101,2,8,6
+"246",246,"Jardín Infantil Mundo de Amor",4,4103,1,13,1
+"247",247,"opd tirua",8,8207,4,36,6
+"248",248,"CHCC LEBU",8,8201,2,15,6
+"249",249,"FORTALECIMIENTO MUNICIPAL COMUNA DE COCHRANE",11,11301,2,10,1
+"250",250,"casa de acogida teniente Merino",1,1101,4,10,5
+"251",251,"Residencia Teniente Merino",1,1101,5,10,5
+"252",252,"OPD Villa Alemana Chile Crece Contigo Comunal",5,5804,5,9,3
+"253",253,"Oficina Local de la Niñez OLN La Florida",13,13110,1,11,1
+"254",254,"Chile Crece Contigo",6,6309,2,3,6
+"255",255,"Chile Crece Contigo",6,6309,3,5,6
+"256",256,"Chile Crece Contigo",6,6309,3,5,6
+"257",257,"OPD LLANQUIHUE",10,10107,2,14,1
+"258",258,"OPD LLANQUIHUE",10,10107,4,27,1
+"259",259,"OPD LLANQUIHUE",10,10107,4,11,5
+"260",260,"CSC Calera de Tango SENAME",13,13403,4,12,6
+"261",261,"Centro de Niños de cuidados de padres temporeros",14,14201,2,10,1
+"262",262,"Centro de cuidado de niños de padres temporeros",14,14201,3,10,1
+"263",263,"jardin bosque magico y oficina chile crece contigo de cañete",8,8203,1,20,1
+"264",264,"Programa Chile Crece Contigo",6,6310,3,6,6
+"265",265,"Club deportivo",8,8112,3,20,6
+"266",266,"opd purranque",10,10303,2,10,6
+"267",267,"Oficina de Protección de Derechos de Independencia",13,13108,2,18,1
+"268",268,"Residencia Bárbara Kast Corporación María Ayuda",2,2101,2,7,5
+"269",269,"Centro de Régimen Cerrado",3,3101,4,5,6
+"270",270,"OPD Colchagua",6,6301,3,30,3
+"271",271,"Programa salidas alternativas ACJ Valparaiso",5,5801,4,4,5
+"272",272,"PIE CORONEL",8,8102,4,8,5
+"273",273,"Residencia Nuestra Señora de Fátima",16,16101,3,11,5
+"274",274,"centro residencial de niñas Gabriela Mistral",7,7102,4,4,5
+"275",275,"Oficina Local de la Niñez OLN La Florida",13,13101,1,15,1
+"276",276,"centro residencial de niñas Gabriela Mistral",7,7102,2,5,5
+"277",277,"unidad justicia juvenil sename",12,12101,4,4,5
+"278",278,"Ilustre Municipalidad de Litueche",6,6203,2,8,6
+"279",279,"casa de acogida imillitay",1,1101,4,10,5
+"280",280,"MUNICIPALIDAD LO PRADO CHILE CRECE CONTIGO",13,13117,1,13,6
+"281",281,"Programa Libertad Asistida Sembrando Caminos Mision Evangelica San Pablo de Chile",8,8108,4,4,5
+"282",282,"OPD MARÍA PINTO",13,13504,5,13,2
+"283",283,"opd purranque",10,10303,3,12,6
+"284",284,"CREAD entre Silos",7,7101,4,15,5
+"285",285,"Villa Buenaventura",13,13401,5,20,3
+"286",286,"Oficina de Protección de Derechos Infanto Juveniles de La Serena",4,4101,1,34,3
+"287",287,"junta de vecinos villa vista al mar",1,1107,3,10,6
+"288",288,"FORTALECIMIENTO MUNICIPAL COMUNA DE COCHRANE",11,11301,3,10,1
+"289",289,"Residencia Femenina Imillitay Qal",1,1101,5,9,5
+"290",290,"CHCC LEBU",8,8201,1,8,1
+"291",291,"PPF CIUDAD DEL NIÑO CORONEL SUR",8,8102,1,6,5
+"292",292,"PPF CIUDAD DEL NIÑO CORONEL SUR",8,8102,3,9,5
+"293",293,"PPF CIUDAD DEL NIÑO CORONEL SUR",8,8102,2,6,5
+"294",294,"OPD Mejillnones",2,2102,4,6,3
+"295",295,"SENAME",5,5801,4,8,5
+"296",296,"FORTALECIMIENTO MUNICIPAL",11,11402,2,19,6
+"297",297,"Población Villa Cerro Divisadero",11,11101,2,10,3
+"298",298,"Escuela de Verano",6,6205,3,21,1
+"299",299,"Escuela de verano Municipalidad de Machali",6,6108,2,29,6
+"300",300,"REM PER NUESTRA SEÑORA DE LA ESPERANZA",16,16101,1,10,5
+"301",301,"Chile Crece Contigo",13,13104,1,6,1
+"302",302,"Jardin infantil Junji los bajitos",10,10207,1,9,6
+"303",303,"las maravillas de ulmen",13,13501,1,7,1
+"304",304,"casa de acogida nido amigo",1,1101,1,10,5
+"305",305,"Programa de Medidas Cautelares Ambulatorias Misión Evangélica San Pablo de Chile",8,8101,4,9,5
+"306",306,"ESCUELA DE VERANO MAITENCILLO",5,5105,2,25,6
+"307",307,"Municipalidad de lo Espejo",13,13116,2,6,6
+"308",308,"CHILE CRECE CONTIGO OPD Y WORLD VISION",8,8106,4,10,1
+"309",309,"OPD Independencia",13,13108,3,21,1
+"310",310,"opd purranque",10,10303,4,8,3
+"311",311,"OPD Monte Patria",4,4303,1,14,3
+"312",312,"OFICINA DE PROTECCIÓN DE DERECHOS DE INDEPENDENCIA",13,13108,2,14,1
+"313",313,"Escuela de verano Panguipulli",14,14108,2,10,1
+"314",314,"OFICINA DE PROTECCIÓN DE DERECHOS DE INDEPENDENCIA",13,13108,2,24,1
+"315",315,"OPD VILLA ALEMANA",5,5804,2,49,1
+"316",316,"CHCC ANTUCO",8,8302,2,7,6
+"317",317,"Ilustre Municipalidad de Paredones",6,6206,1,6,6
+"318",318,"OPD Puente Alto",13,13201,2,8,6
+"319",319,"OPD y PPF",4,4201,5,9,3
+"320",320,"Programa Salidas Alternativas",3,3101,4,11,5
+"321",321,"ilustre municipalidad de Concón",5,5103,3,50,6
+"322",322,"SENAME",5,5802,4,5,5
+"323",323,"Asociación cristiana de jóvenes",5,5101,4,9,5
+"324",324,"Escuela de verano La Peña",5,5506,2,27,1
+"325",325,"ASOCIACION CRISTIANA DE JOVENES",5,5501,4,6,5
+"326",326,"Jardin Infantil Altue",13,13101,1,12,1
+"327",327,"CHILE CRECE CONTIGO",10,10305,2,45,6
+"328",328,"Municipalidad",11,11302,5,5,6
+"329",329,"Oficina de Protección de Derechos de la Niñez y la Adolescencia de Santiago",13,13101,4,5,2
+"330",330,"ILUSTRE MUNICIPALIDAD DE CANELA",4,4202,1,22,1
+"331",331,"jardín infantil",6,6201,1,5,2
+"332",332,"Fortalecimiento municipal ChCC comuna de Tortel",11,11303,3,6,6
+"333",333,"OPD Casa de la Familia Zapallar",5,5405,5,22,3
+"334",334,"ESCUELA DE VERANO",14,14107,3,10,6
+"335",335,"ILUSTRE MUNICIPALIDAD DE LOLOL",6,6304,3,8,1
+"336",336,"Centro para niños con cuidadores principalmente temporeros CNCPT 2020",14,14103,2,12,1
+"337",337,"Programa de Prevención Focalizada Adolfo Pérez Esquivel",10,10108,2,5,5
+"338",338,"Fortalecimiento Municipal CHCC",11,11101,2,10,6
+"339",339,"Circuito responsabilidad penal adolescente región de Tarapacá",1,1101,4,11,5
+"340",340,"Residencia Nido Amigó",1,1101,1,7,5
+"341",341,"Chile Crece Contigo Municipalidad Independencia",13,13108,2,20,1
+"342",342,"Escuela Básica  Maitencillo",7,7408,2,10,1
+"343",343,"OPD",7,7202,2,12,6
+"344",344,"OPD Chanco",7,7202,1,24,1
+"345",345,"NIÑEZ BIOBIO y JUNJI CAÑETE",8,8203,1,9,1
+"346",346,"Corporacion Marthe Gautier",4,4101,3,8,6
+"347",347,"Programa de Prevención Focalizada Adolfo Pérez Esquivel",10,10108,3,4,5
+"348",348,"NIÑEZ BIOBIO y JUNJI CAÑETE",8,8203,1,9,1
+"349",349,"PIE 24 HORAS SUR TALITA CUMI",8,8301,4,10,5
+"350",350,"OPD RENGO CONSEJOS DE INFANCIA",6,6115,4,10,3
+"351",351,"Chile Crece Contigo y OPD Casablanca",5,5102,2,8,6
+"352",352,"Chile crece contigo",13,13402,2,10,6
+"353",353,"Grupo de Vecinos Alto de Chamicero",13,13301,2,8,6
+"354",354,"Grupo de Vecinos Alto Chamicero",13,13301,2,8,6
+"355",355,"Fundación de Beneficencia de los Sagrados Corazones",13,13301,1,9,1
+"356",356,"REM PER SAN JOSE DE CORONEL",8,8102,5,30,2
+"357",357,"Fundación de Beneficencia de los Sagrados Corazones",13,13118,1,8,1
+"358",358,"Programa Libertad Asistida Especial Misión Evangélica San Pablo de Chile",8,8301,4,4,5
+"359",359,"red de infancia hualqui",8,8105,3,27,1
+"360",360,"NIÑEZ BIOBIO y CNCPT TUBUL ARAUCO",8,8202,2,5,6
+"361",361,"OPD y Residencia niño y patria",4,4301,3,4,5
+"362",362,"CNCPT",6,6102,2,15,1
+"363",363,"OPD",8,8303,4,10,2
+"364",364,"ESCUELA DE VERANO SAN ESTEBAN",5,5304,3,15,6
+"365",365,"CNCTP",6,6102,3,22,1
+"366",366,"CHCC MUNICIPALIDAD DE PADRE HURTADO",13,13604,3,13,1
+"367",367,"Niños de la Comuna de Aysén",11,11201,3,11,4
+"368",368,"Programa de Salidas Alternativas",10,10301,4,15,5
+"369",369,"Red Comunal ChCC Melipilla Piscina Chocalan grupo 1",13,13501,4,11,1
+"370",370,"Chile Crece Contigo",13,13119,2,6,6
+"371",371,"OPD Constitución Empedrado",7,7102,4,2,2
+"372",372,"Red Comunal ChCC Melipilla piscina chocalan grupo 2",13,13501,2,8,1
+"373",373,"Municipalidad de lo Espejo",13,13116,2,9,6
+"374",374,"Diálogos participativos ChCC 1",8,8303,1,6,6
+"375",375,"Red Comunal ChCC Melipilla piscina chocalan grupo 3",13,13501,2,7,1
+"376",376,"Chile Crece Contigo",13,13124,2,13,6
+"377",377,"Diálogos participativos ChCC2",8,8303,2,7,6
+"378",378,"ACJ Valparaíso Sede RPA San Felipe",5,5701,4,5,6
+"379",379,"Diálogos participativos ChCC3",8,8303,3,10,6
+"380",380,"Chile Crece Contigo",13,13124,1,6,1
+"381",381,"CREAD Galvarino SENAME",13,13101,3,8,5
+"382",382,"Club deportivo de cheerleader Jaguar",2,2301,3,6,1
+"383",383,"Programa Abriendo Caminos Tikvah",6,6101,5,8,6
+"384",384,"Club Deportivo Recreativo social de Cheerleaders Jaguar",2,2301,2,4,6
+"385",385,"Club Deportivo Cheerleader Jaguar",2,2301,4,3,1
+"386",386,"Deportes Tocopilla",2,2301,2,9,6
+"387",387,"Deportes Tocopilla",2,2301,3,5,6
+"388",388,"Deportes Tocopilla",2,2301,3,4,6
+"389",389,"Centro Semi Cerrado Calera de Tango",13,13403,4,12,5
+"390",390,"Grupo Scout",10,10206,3,7,6
+"391",391,"REM PER LEBU",8,8201,5,7,5
+"392",392,"Programa Chile Crece Contigo I Municipalidad de Maria Pinto",13,13504,5,13,6
+"393",393,"Jardín infantil semillitas",10,10203,1,6,1
+"394",394,"OPD VALLENAR",3,3301,5,9,6
+"395",395,"niños y niñas del HEPI crianza de la comuna",9,9201,1,8,6
+"396",396,"Programa Abriendo Caminos Tikvah",6,6310,3,6,6
+"397",397,"consejo consultivo",5,5703,4,4,3
+"398",398,"Chile Crece Contigo",10,10302,2,12,1
+"399",399,"Chile Crece Contigo",10,10302,3,11,1
+"400",400,"OLN Colina",13,13301,4,6,4
+"401",401,"Niños y niñas de la red Chile Crece Contigo de la comuna",9,9116,2,8,6
+"402",402,"OLN Colina",13,13301,3,6,4
+"403",403,"CENTRO DE NIÑOS DE MADRES TEMPORERAS SAN PABLO",10,10307,2,20,1
+"404",404,"Macarena Solis",13,13301,4,6,4
+"405",405,"OLN Colina",13,13301,4,6,4
+"406",406,"ILUSTRE MUNICIPALIDAD DE SAN ESTEBAN",5,5304,2,18,6
+"407",407,"ILUSTRE MUNICIPALIDAD DE SAN ESTEBAN",5,5304,2,18,6
+"408",408,"Ilustre Municipalidad de Purranque",10,10303,2,18,6
+"409",409,"Corporacion de Apoyo a la Niñez y Juventud en Riesgo Social Llequen",16,16101,4,9,5
+"410",410,"Niños y Niñas de la Red Comunal Chile Crece Contigo",9,9101,1,9,6
+"411",411,"Ilustre Municipalidad de Purranque",10,10303,3,11,6
+"412",412,"Jardín Infantil Estrellita",10,10102,1,9,1
+"413",413,"OPD EXIGIENDO Y LUCHANDO POR NUESTROS DERECHOS",6,6113,2,8,6
+"414",414,"Jardín La Esperanza",8,8312,1,4,1
+"415",415,"Coord Niñez Octava y ChCC Comuna Los Álamos",8,8206,2,16,6
+"416",416,"Ilustre Municipalidad de Ollague",2,2202,3,5,6
+"417",417,"Niños y niñas que participan de los centros para Niños con Cuidadores Principales Temporeros",9,9120,3,11,1
+"418",418,"Centro para niños con cuidadores disipables temporeros",14,14202,5,41,6
+"419",419,"comision por los derechos de la infancia y adolescencia",2,2203,3,12,1
+"420",420,"Chile crece contigo",2,2203,1,8,6
+"421",421,"Ilustre Municipalidad de Alhué",13,13502,1,6,6
+"422",422,"Chile Crece Contigo",13,13503,2,6,6
+"423",423,"OPD Infancia Alto Hospicio",1,1107,1,19,1
+"424",424,"CAHMT",5,5402,3,10,6
+"425",425,"Jardin infantil Vista alegre",13,13102,1,8,1
+"426",426,"Colegio Maria Escobillana",6,6106,2,12,1
+"427",427,"Centro Metropolitano Norte SENAME",13,13303,4,23,5
+"428",428,"Centro de Madres Temporeras",13,13401,3,5,3
+"429",429,"Programa Chile crece contigo Municipalidad Pedro Aguirre Cerda",13,13121,2,6,1
+"430",430,"Chile Crece Contigo Negrete",8,8307,1,9,1
+"431",431,"Congregación de Religiosos Terciarios Capuchinos  PROGRAMAS PLA Y PLAE",8,8101,4,4,5
+"432",432,"Centro de Madres temporeras",13,13401,2,6,3
+"433",433,"Chile Crece Contigo",5,5102,2,11,1
+"434",434,"Oficina de Protección de Derechos",13,13108,2,19,1
+"435",435,"Escuela eulogia borquez perez",10,10208,2,31,1
+"436",436,"Colegio María Escobillana",6,6106,3,20,1
+"437",437,"OPD lujarpan Huara",1,1404,2,16,3
+"438",438,"CNCPT Placilla",6,6308,5,28,6
+"439",439,"OPD Aysén",11,11201,2,11,1
+"440",440,"Oficina de protección de derechos de infancia y adolescencia",8,8306,2,7,3
+"441",441,"CAHMT",5,5402,2,6,6
+"442",442,"OPD Aysén",11,11201,3,11,1
+"443",443,"Concejo Infantil Rancagua",6,6101,3,6,2
+"444",444,"Municipalidad de Fresia",10,10104,2,10,6
+"445",445,"Colegio Natalia Peralta",6,6102,2,12,1
+"446",446,"Ilustre Municipalidad de Ancud",10,10202,1,8,6
+"447",447,"Colegio Natalia Peralta",6,6102,3,22,1
+"448",448,"OPD EXIGIENDO Y LUCHANDO POR NUESTROS DERECHOS",6,6113,3,6,6
+"449",449,"Municipalidad de Fresia",10,10104,3,8,6
+"450",450,"Villa Los Cerezos de San Luis de Macul",13,13122,2,10,6
+"451",451,"Programa Chile Crece Contigo Municipalidad de Independencia",13,13108,2,24,1
+"452",452,"Libertad Asistida Simple Atacama",3,3101,4,5,5
+"453",453,"Consejo Consultivo  OPD La Granja",13,13111,4,5,3
+"454",454,"club deportivo de melipeuco",9,9110,2,6,1
+"455",455,"Consejo Consultivo NNAs OPD La Granja",13,13111,3,7,3
+"456",456,"PROGRAMA LIBERTAD ASISTIDA ESPECIAL",3,3101,4,8,5
+"457",457,"Red Comunal ChCC Melipilla piscina chocalan grupo 4",13,13501,2,7,1
+"458",458,"CNCPT",6,6112,5,72,6
+"459",459,"Programa SBA Corporación Gabriela Mistral",3,3101,4,5,5
+"460",460,"Escuela de Verano",7,7405,2,19,1
+"461",461,"Programa SBC Corporación Gabriela Mistral",3,3101,4,5,5
+"462",462,"Programa de Medidas Cautelares",3,3101,4,14,5
+"463",463,"Jardín Infantil Bosque de Colores",10,10301,1,12,1
+"464",464,"Programa de Libertad Asistida Especial Proyecta Chiloé",10,10208,5,4,5
+"465",465,"Oficina Local de La niñez",13,13110,1,4,1
+"466",466,"Chile Crece Contigo Renca",13,13128,1,7,6
+"467",467,"Programa Abriendo Caminos",2,2201,5,10,6
+"468",468,"Chile Crece Contigo Renca",13,13128,2,10,6
+"469",469,"Chile Crece Contigo Quilaco",8,8308,2,10,1
+"470",470,"Programa de Medidas Cautelares  Proyecta Chiloé",10,10201,4,7,5
+"471",471,"RESIDENCIA MARIA AYUDA",1,1101,5,12,5
+"472",472,"Chile Crece Contigo Renca",13,13128,3,8,6
+"473",473,"Chile Crece Contigo Renca",13,13128,2,5,2
+"474",474,"Programa de Libertad Asistida Proyecta Chiloé",10,10201,5,5,5
+"475",475,"Chile Crece Contigo Quilaco",8,8308,3,10,1
+"476",476,"Moira Francisca Vallejos Inostroza",8,8308,4,10,1
+"477",477,"Secretaria Niñez y Junaeb",8,8102,3,13,1
+"478",478,"integrantes programa centro para niños con cuidadores principales temporeros",9,9107,2,16,1
+"479",479,"participan de centro para niños con cuidadores principales temporeros",9,9109,2,8,1
+"480",480,"Cruz Roja",16,16102,4,20,5
+"481",481,"participan de centro para niños con cuidadores principales temporeros",9,9109,2,7,1
+"482",482,"participan de centro para niños con cuidadores principales temporeros",9,9202,2,7,1
+"483",483,"participan de centro para niños con cuidadores principales temporeros",9,9202,2,7,1
+"484",484,"participan de centro para niños con cuidadores principales temporeros",9,9101,1,7,1
+"485",485,"participan de centro para niños con cuidadores principales temporeros",9,9101,1,7,1
+"486",486,"MUNICIPALIDAD DE CORRAL",14,14102,4,8,2
+"487",487,"OPD ISLA DE MAIPO",13,13603,3,170,3
+"488",488,"JARDIN REGALITOS DEL CIELO",10,10209,1,10,1
+"489",489,"MUNICIPALIDAD SAN PEDRO DE LA PAZ",8,8108,5,50,6
+"490",490,"Oficina Local de la Niñez OLN La Florida",13,13110,2,6,6
+"491",491,"Chile Crece Contigo Calle Larga y CESFAM José Joaquín Aguirre",5,5302,3,8,6
+"492",492,"Jardín Infantil Paidahue",13,13113,1,6,1
+"493",493,"OPD ADQUINTUE",10,10306,5,8,2
+"494",494,"Programa Abriendo Caminos",2,2101,2,13,6
+"495",495,"OPD VALLENAR",3,3301,5,12,6
+"496",496,"Escuela Municipal de Fútbol de Frutillar",10,10105,3,8,6
+"497",497,"programa chile crece contigo zapallar",5,5405,2,13,6
+"498",498,"Programa Abriendo Caminos",2,2101,3,7,6
+"499",499,"Programa Familias De Acogida Concepción AADD",8,8101,2,5,5
+"500",500,"ILUSTRE MUNICIPALIDAD DE CHEPICA",6,6302,2,9,6
+"501",501,"Red  Chile Crece Contigo  Hualaihue",10,10403,3,26,1
+"502",502,"ILUSTRE MUNICIPALIDAD DE CHEPICA",6,6302,2,9,6
+"503",503,"Residencia de Protección Casa Belén",5,5301,5,21,6
+"504",504,"ILUSTRE MUNICIPALIDAD DE CHEPICA",6,6302,2,9,6
+"505",505,"ILUSTRE MUNICIPALIDAD DE CHEPICA",6,6302,3,8,6
+"506",506,"ILUSTRE MUNICIPALIDAD DE CHEPICA",6,6302,3,8,6
+"507",507,"FUNDACION CIUDAD DEL NIÑO",10,10101,4,5,5
+"508",508,"ILUSTRE MUNICIPALIDAD DE CHEPICA",6,6302,3,9,6
+"509",509,"OPD Municipalidad San Ramon",13,13131,4,16,3
+"510",510,"OPD cañete",8,8203,5,8,3
+"511",511,"NNA de la comuna de Aysén",11,11201,2,15,4
+"512",512,"PPF Witralen Corporación Servicio Paz y Justicia SERPAJ Chile",10,10403,5,5,5
+"513",513,"PPF AMANECER",8,8201,3,8,5
+"514",514,"Subse Ninez Bío Bío  JUNJI",8,8301,1,6,1
+"515",515,"Subse ninez  Bio BioCNCPT",8,8314,3,6,1
+"516",516,"OPD Municipalidad San Ramón",13,13131,4,22,3
+"517",517,"OPD y FAE PRO ADRA",4,4301,3,5,5
+"518",518,"Subse Ninez Bío Bío  CNCPT",8,8311,3,26,1
+"519",519,"Programa Libertad Asistida Simple Elqui  Corporación Gabriela Mistral",4,4101,4,5,5
+"520",520,"REM PER CASA CENTRAL",8,8112,3,8,5
+"521",521,"Colegio Benjamín Vicuña Mackenna",6,6101,3,32,1
+"522",522,"PRM Ciudad del niño Los Angeles",8,8301,4,5,5
+"523",523,"Colegio Benjamin Vicuña Mackenna",6,6101,2,31,1
+"524",524,"Niños y niñas de la comunidad indígena raiman",9,9207,5,10,6
+"525",525,"PRM Ciudad del Niño Concepción",8,8101,4,8,5
+"526",526,"Chile Crece Contigo Comunal Puerto Montt",10,10101,2,11,6
+"527",527,"Ilustre Municipalidad de La Estrella",6,6202,1,6,1
+"528",528,"CIP CRC  SENAME",1,1101,4,7,5
+"529",529,"CIP CRC  SENAME",1,1101,4,6,5
+"530",530,"Escuela de Verano Papudo",5,5403,5,52,6
+"531",531,"Escuela de verano Laja 2020",8,8304,2,16,1
+"532",532,"cncpt san fernando",6,6301,5,52,6
+"533",533,"FORTALECIMIENTO MUNICIPAL COMUNA DE CHILE CHICO",11,11401,3,6,3
+"534",534,"Grupo de música",8,8312,3,5,6
+"535",535,"OPD",15,15101,3,10,3
+"536",536,"OPD",15,15101,4,11,3
+"537",537,"OPD",15,15101,2,5,3
+"538",538,"CHCC SAN PEDRO DE LA PAZ",8,8108,3,50,6
+"539",539,"FORTALECIMIENTO MUNICIPAL COMUNA DE CHILE CHICO",11,11401,2,19,1
+"540",540,"Oficina de protección de derechos de la infancia y adolescencia Curepto",7,7103,3,15,3
+"541",541,"Programa 4a7 SernamEG",5,5502,2,10,1
+"542",542,"CRC CIP Limache Servicio Nacional de Menores",5,5802,4,33,5
+"543",543,"Centro de Madres Temporeras Colegio Hernán Merino Correa",13,13401,3,5,3
+"544",544,"Residencia Virgen de los Desamparados",5,5502,2,7,5
+"545",545,"Oficina Local de La Niñez",13,13110,4,7,4
+"546",546,"Centro de Atención de hijos de Mujeres Temporeras",10,10105,2,12,6
+"547",547,"PRM Ciudad del Niño Los Ángeles",8,8301,2,9,5
+"548",548,"Centro para  niños y niñas con cuidadores principales temporeros",10,10204,2,10,6
+"549",549,"Centro de Verano Escuela Jaime Felman Miller",6,6114,5,28,6
+"550",550,"Niños y niñas pertenecientes a los centros para hijos de madres temporeras",9,9209,2,10,1
+"551",551,"OPD SAN BERNARDO  CHILE CRECE CONTIGO",13,13401,5,6,3
+"552",552,"CENTROS PARA NIÑOS Y NIÑAS CON CUIDADORES PRINCIPALES TEMPORERAS",10,10204,3,10,6
+"553",553,"Programa para cuidadores temporeras",6,6109,2,25,1
+"554",554,"Municipalidad Los Muermos Chile crece contigo",10,10106,2,16,6
+"555",555,"Centros para Niños con cuidadores principales temporeras Municipalidad de Los Muermos",10,10106,2,10,6
+"556",556,"seremi desarrollo  social región de aysen",11,11101,2,16,1
+"557",557,"Oficina de Protección de Infancia",5,5802,5,9,3
+"558",558,"OPD Peñalolén",13,13122,2,6,3
+"559",559,"Unidad Chile crece contigo Municipalidad Tortel",11,11303,1,6,6
+"560",560,"CNCPT Las Cabras",6,6107,2,15,6
+"561",561,"CNCPT Las Cabras",6,6107,3,11,6
+"562",562,"Chile Crece Contigo",2,2102,2,20,6
+"563",563,"OPD Padre Hurtado",13,13604,1,4,6
+"564",564,"Oficina de protección de derechos de infancia y adolescencia",8,8306,3,5,3
+"565",565,"OPD Padre Hurtado",13,13604,2,6,6
+"566",566,"IDayne",13,13113,3,6,6
+"567",567,"FUNDACIÓN HOGARES VERBO DIVINO",8,8102,4,11,5
+"568",568,"chile crece contigo",10,10107,5,16,6
+"569",569,"OFICINA DE PROTECCIÓN DE DERECHOS",6,6204,2,12,1
+"570",570,"SEREME DE DESARROLLO SOCIAL Y FAMILIA AYSEN",11,11101,3,9,6
+"571",571,"OPD TOME SEREMI DEL TRABAJO BIO BIO",8,8111,4,16,3
+"572",572,"Chile Crece contigo",8,8301,2,5,6
+"573",573,"HEPI Crianza",13,13107,1,8,6
+"574",574,"OPD",13,13604,3,6,6
+"575",575,"NIÑEZ BIOBIO y CNCPT TUBUL ARAUCO",8,8202,3,9,6
+"576",576,"OPD LOS MUERMOS",10,10106,3,28,3
+"577",577,"Red Comunal CHCC",14,14104,2,13,6
+"578",578,"CHILE CRECE CONTIGO",8,8301,2,10,6
+"579",579,"OPD LOS MUERMOS",10,10106,4,12,2
+"580",580,"OPD Nacimiento Negrete  y Subsecretaría de Previsión Social",8,8306,4,11,2
+"581",581,"OPD Florida",8,8104,5,23,6
+"582",582,"OPD VALLE DEL SOL OLN QUILLÓN",16,16107,1,9,3
+"583",583,"Oficina de protección de derechos de infancia y adolescencia",8,8306,1,5,3
+"584",584,"OPD",13,13604,3,7,6
+"585",585,"OPD Padre Hurtado",13,13604,1,2,6
+"586",586,"SBC RD",10,10101,4,3,5
+"587",587,"OPD Padre Hurtado",13,13604,2,4,6
+"588",588,"RPM FARO DE LUZ Y ESPERANZA",8,8102,4,6,5
+"589",589,"OPD Mataquito",7,7302,3,34,1
+"590",590,"Chile Crece Contigo San Pedro de la Paz",8,8108,5,50,6
+"591",591,"Oficina Local De La Niñez",13,13110,3,5,6
+"592",592,"Junta de Vecinos La Pasada",10,10108,2,14,6
+"593",593,"CHCC NACIMIENTO",8,8306,1,5,3
+"594",594,"Grupo Terapéutico Cesfam Huertos Familiares",13,13303,5,7,6
+"595",595,"Residencia Familiar Bilbao",13,13123,2,7,6
+"596",596,"Residencia Familiar Bilbao",13,13123,3,5,6
+"597",597,"SUBSECRETARIA NIÑEZ BIOBIO y JUNJI CURANILAHUE",8,8205,1,5,1
+"598",598,"Subsecretaría de Ninez Biobío JUNJI",8,8101,1,11,1
+"599",599,"NIÑEZ BIOBIO y JUNJI LOS ANGELES 1",8,8301,1,5,1
+"600",600,"NIÑEZ BIOBIO y JUNJI LOS ANGELES 2",8,8301,1,6,1
+"601",601,"Subsecretaria Ninez Bio Bio JUNJI",8,8107,1,8,1
+"602",602,"Centro Semicerrado Concepción",8,8101,4,4,5
+"603",603,"Centro Semicerrado Concepción",8,8101,4,4,5
+"604",604,"Centro Semicerrado Concepción",8,8101,4,4,5
+"605",605,"Subsecretaria Ninez Bio Bio JUNJI",8,8108,1,10,1
+"606",606,"Subsecretaria Ninez Bio  Bio JUNJI",8,8103,1,11,1
+"607",607,"Teresa de Jesús",7,7404,5,5,5
+"608",608,"NIÑEZ BIOBIO CHCC y CNCPT MULCHEN",8,8305,3,15,6
+"609",609,"Subsecretaria Ninez Bio  Bio JUNJI",8,8112,1,8,1
+"610",610,"NIÑEZ BIOBIO y JUNJI LOS ANGELES 3",8,8301,1,13,1
+"611",611,"Ilustre Municipalidad",14,14105,2,11,6
+"612",612,"Jardin Infantil Mi Pequeño Mastodonte",4,4203,1,10,1
+"613",613,"Centro de niños con cuidadores principales temporeros Escuela Alborada Ventana del Bajo",7,7308,2,28,1
+"614",614,"Subsecretaria Ninez Bio  Bio JUNAEB",8,8102,2,13,1
+"615",615,"Centro de niños con cuidadores principales temporeros Escuela Huemul",7,7308,2,29,1
+"616",616,"Subsecretaria Ninez Bio  Bio ChCC",8,8104,1,7,6
+"617",617,"ESCUELA DE VERANO",4,4304,5,35,6
+"618",618,"OPD Parral Retiro Longaví",7,7404,4,10,2
+"619",619,"Coord Niñez Octava Mintrab y OPD Santa Juana",8,8109,3,18,6
+"620",620,"OFICINA DE PROTECCIÓN DE DERECHOS PAACHA PAUNA",3,3103,1,16,1
+"621",621,"Subsecretaria Ninez Bio  Bio CNCPT",8,8311,2,15,1
+"622",622,"Coord Niñez Octava y Junji",8,8205,1,5,1
+"623",623,"Subse Ninez Bío Bío  JUNJI",8,8301,1,10,1
+"624",624,"OPD 24 HORAS PUERTO MONTT",10,10101,5,56,3
+"625",625,"Subsecretaria Ninez Bio  Bio JUNJI",8,8301,1,12,1
+"626",626,"OPD",4,4204,1,18,1
+"627",627,"OPD",4,4204,2,4,3
+"628",628,"Coord Niñez Octava y Dideco San Rosendo",8,8310,5,53,6
+"629",629,"OPD VALLE DEL SOL OLN QUILLÓN",16,16107,2,8,3
+"630",630,"OPD",4,4204,3,7,3
+"631",631,"OPD",4,4303,3,6,3
+"632",632,"FUNDACIÓN CIUDAD DEL NIÑO PLE PLA MCA OSORNO",10,10301,4,27,5
+"633",633,"MUNICIPALIDAD CHILE CRECE CONTIGO",12,12401,2,23,6
+"634",634,"OPD VALLE DEL SOL OLN QUILLÓN",16,16107,3,18,3
+"635",635,"Dirección de Desarrollo de la Niñez Municipalidad de la Pintana",13,13112,2,6,6
+"636",636,"Cncpt San vicente de tagua tagua",6,6117,2,15,1
+"637",637,"Cncpt San vicente de tagua tagua",6,6117,2,15,1
+"638",638,"Cncpt San vicente de tagua tagua",6,6117,3,13,1
+"639",639,"MUNICIPALIDAD CHILE CRECE",12,12401,3,13,6
+"640",640,"niños del equipo de fútbol amanecer",9,9106,5,9,6
+"641",641,"Centro Privativo de Libertad",12,12101,4,2,5
+"642",642,"Consejo Consultivo",1,1401,3,7,3
+"643",643,"OPD",10,10102,4,3,3
+"644",644,"OPD",4,4204,4,9,5
+"645",645,"Asociación cristiana de jóvenes",5,5101,4,9,5
+"646",646,"Jardin Infantil Altos de Cantillana nivel medio menor Melipilla",13,13501,1,4,1
+"647",647,"subse ninez cncpt Alto Bio Bio callaqui",8,8314,3,26,1
+"648",648,"OPD PICA",1,1405,2,10,1
+"649",649,"SENAME",4,4101,4,3,6
+"650",650,"JI Altos de Cantillana nivel heterogéneo Melipilla",13,13501,1,5,1
+"651",651,"SENAME",4,4101,4,7,6
+"652",652,"CENTRO CULTURAL Y EDUCACIONAL",5,5601,4,4,5
+"653",653,"FAE PRO CONCEPCION 3 ADRA CHILE",8,8101,2,8,5
+"654",654,"OPD LINARES",7,7401,5,14,3
+"655",655,"FAE PRO CONCEPCION 3 ADRA CHILE",8,8101,3,9,5
+"656",656,"FAE PRO CONCEPCION 3 ADRA CHILE",8,8101,4,2,5
+"657",657,"subse nines CNCPT Chile crece contigo Alto Bio Bio Ralco",8,8314,3,20,1
+"658",658,"Programa Libertad Asistida OPCION Cerro Navia",13,13117,4,4,5
+"659",659,"CNCPT ESCUELA CANADA",6,6116,2,19,6
+"660",660,"Liceo yungay",16,16109,2,10,1
+"661",661,"OPD SAN ANTONIO",5,5601,5,10,5
+"662",662,"Liceo yungay",16,16109,2,9,1
+"663",663,"CHCC MULCHÉN Y CNCPT",8,8305,2,12,6
+"664",664,"PAS Llequén",16,16101,4,7,5
+"665",665,"CNCPT ESCUELA CAMPO LINDO",6,6116,2,10,6
+"666",666,"Comunidad Indígena Samil España",9,9119,2,5,6
+"667",667,"Liceo San Gregorio",16,16303,2,7,2
+"668",668,"CNCPT ESCUELA CANADÁ",6,6116,3,13,6
+"669",669,"Chile Crece Contigo San José de Maipo",13,13203,2,8,6
+"670",670,"CNCPT ESCUELA CAMPO LINDO",6,6116,3,12,6
+"671",671,"Chile Crece Contigo",13,13503,5,7,6
+"672",672,"OPD Quintero",5,5107,1,13,1
+"673",673,"OPD HUASCO",3,3304,4,10,2
+"674",674,"ESCUELA DE VERANO SOTAQUI",4,4301,3,23,1
+"675",675,"Escuela de verano",4,4301,2,10,1
+"676",676,"escuela de verano colegio La Isla",6,6105,2,27,1
+"677",677,"OPD 24 Horas Copiapó",3,3101,5,9,3
+"678",678,"OPD Buin",13,13402,2,10,3
+"679",679,"SENAME",4,4101,4,6,6
+"680",680,"CIP CRC SAN BERNARDO",13,13401,4,33,5
+"681",681,"Centro para niños con cuidadores principales temporeros",6,6307,2,30,1
+"682",682,"OPD Quintero",5,5107,2,20,1
+"683",683,"Escuela de Verano Colegio Julio Silva Lazo",6,6105,2,20,1
+"684",684,"OPD Quintero",5,5107,3,25,1
+"685",685,"Centro de atención para hijos e hijas de mujeres principales temporeras",6,6303,2,21,6
+"686",686,"Centro Semicerrado Femenino Santiago",13,13120,4,3,5
+"687",687,"Club Deportivo Basquetbol Frutillar",10,10105,4,6,6
+"688",688,"CASA SAGRADA FAMILIA",5,5301,3,10,6
+"689",689,"oficina de protección de los derechos del niño",13,13601,5,19,6
+"690",690,"Chile Crece Contigo",14,14106,3,8,2
+"691",691,"Chile Crece Contigo",12,12301,4,10,3
+"692",692,"OFICINA PROTECCIÓN DE DERECHOS DE NIÑEZ Y JVENTUDSAN JOAQUIN",13,13129,2,6,6
+"693",693,"Escuela de verano municipalidad de Coltauco",6,6104,3,65,6
+"694",694,"Residencia Familiar de la Asociación Cristiana de Jóvenes",6,6101,4,7,5
+"695",695,"Oficina de Protección de Derechos",4,4302,5,28,6
+"696",696,"Residencia Familiar adolescentes de viña del mar de administración directa",5,5109,3,6,5
+"697",697,"OPD MALLOA",6,6109,4,6,3
+"698",698,"CIPCRC Cholchol",9,9121,4,18,6
+"699",699,"OPD La Serena",4,4101,2,2,3
+"700",700,"OPD La Serena",4,4101,3,2,3
+"701",701,"Opd valle del Itata Infancia Dideco Coelemu Chile crece contigo Coelemu",16,16203,5,19,1
+"702",702,"escuela de verano",6,6110,2,55,6
+"703",703,"Centro de Niñas y Niños con Cuidadores Principales Temporeros",7,7402,2,9,1
+"704",704,"organizacion",2,2104,4,10,6
+"705",705,"Programas PLA Independencia y ASE DEM",13,13108,4,4,5
+"706",706,"OPD Palena",10,10404,2,9,1
+"707",707,"Centro de Niñas y Niños con Cuidadores Principales Temporeros",7,7402,3,15,1
+"708",708,"OPD Palena",10,10404,3,9,1
+"709",709,"OPD Palena",10,10404,3,7,1
+"710",710,"OPD La Serena",4,4101,4,4,3
+"711",711,"Chile Crece Contigo",14,14204,2,15,6
+"712",712,"escuela de verano puente ñuble",16,16305,5,12,1
+"713",713,"Centro Semicerrado La Serena",4,4101,4,6,6
+"714",714,"Corporación de Acción y Oportunidad OPCION",13,13117,4,4,5
+"715",715,"OPD VICUÑA",4,4106,5,12,2
+"716",716,"OPD y PPF Fundación Mi Casa",4,4301,3,6,5
+"717",717,"SENAME FAEE AADD CONCEPCION ARAUCO",8,8101,4,4,5
+"718",718,"SENAME CIP CRC TALCA",7,7101,4,10,5
+"719",719,"OPD CERRO NAVIA",13,13103,5,63,4
+"720",720,"oficina de protección de los derechos del niño",13,13601,5,30,6
+"721",721,"Corporación OPCION",13,13103,4,7,5
+"722",722,"OPD COMUNA DE DIEGO DE ALMAGRO",3,3202,2,11,6
+"723",723,"FUNDACION DEM PLA RECOLETA ASE DEM",13,13127,4,7,5
+"724",724,"Libertad Asistida Especial Elqui",4,4101,4,6,5
+"725",725,"OPD QUELLON",10,10208,4,5,3
+"726",726,"Ilustre Mucnicpalidad Sagrada Familia",7,7307,2,27,6
+"727",727,"OPD Mataquito",7,7303,3,34,1
+"728",728,"CHCC Maria Elena",2,2302,5,11,6
+"729",729,"Centros para niños con cuidadores principales temporeros",9,9121,2,11,1
+"730",730,"centro de internación provisoria San Joaquín",13,13129,4,12,5
+"731",731,"CESCOF Maximino Beltrán Mora",9,9108,2,11,6
+"732",732,"Oficina de Protección de Derechos de Pirque",13,13202,3,8,3
+"733",733,"Centro de internación provisoria de San Joaquín",13,13129,4,6,5
+"734",734,"Centro de internación provisoria de San Joaquín",13,13129,4,8,5
+"735",735,"Centro de internación provisoria San Joaquín",13,13129,4,10,5
+"736",736,"Corporación Opción Linares ASE PLE PLA",7,7401,4,7,5
+"737",737,"OPD CONCEPCION",8,8101,2,25,6
+"738",738,"Chile Crece Contigo Bulnes",16,16102,2,10,1
+"739",739,"OPD CONCEPCION",8,8101,2,13,2
+"740",740,"Escuela de Verano",5,5401,2,11,1
+"741",741,"CNCPT Bulnes",16,16102,2,13,1
+"742",742,"chile crece contigo",13,13603,2,25,1
+"743",743,"Chile Crece Contigo Pemuco",16,16105,3,10,1
+"744",744,"Escuela de Verano",5,5401,3,6,1
+"745",745,"Centro de internación provisoria San Joaquín",13,13129,4,10,5
+"746",746,"OPD  Calama",2,2201,4,6,6
+"747",747,"OPD Calama",2,2201,3,22,6
+"748",748,"Chile Crece contigo",13,13603,3,25,1
+"749",749,"OPD FRESIA",10,10104,3,5,3
+"750",750,"Chile Crece contigo",13,13603,2,20,1
+"751",751,"OPD LA CALERA",5,5502,2,8,3
+"752",752,"OPD Calama",2,2201,2,10,6
+"753",753,"Fundación DEM PLE Independencia y ASE DEM",13,13108,4,7,5
+"754",754,"Chile crece contigo",13,13603,3,20,1
+"755",755,"Chile Crece Contigo",13,13603,2,60,1
+"756",756,"Programa Mca Elqui LRPA",4,4101,4,7,5
+"757",757,"subse nines Bio Bio CNCPT",8,8308,3,20,1
+"758",758,"Escuela de verano",16,16204,5,13,1
+"759",759,"Programa Mca Elqui LRPA",4,4101,4,7,5
+"760",760,"niños y niñas del programa de centros para hijos con madres y o cuidadores principales",9,9115,3,13,1
+"761",761,"subse ninez Bio Bio CNCPT",8,8311,3,27,1
+"762",762,"Chile crece Contigo El Carmen",16,16104,3,10,1
+"763",763,"Servicio Nacional de Menores",10,10101,4,3,6
+"764",764,"Chile Crece Contigo Quirihue",16,16201,2,10,1
+"765",765,"OPD",4,4105,3,25,1
+"766",766,"Ilustre Municipalidad de Lolol",6,6304,2,8,1
+"767",767,"Corporación Opción  Abate Molina",7,7201,4,7,5
+"768",768,"OPD LOS VILOS",4,4203,3,10,2
+"769",769,"ADRA Chile",8,8101,2,7,5
+"770",770,"NINEZ CHCC FLORIDA",8,8104,3,15,6
+"771",771,"PPF Sendero del inca Petorca",5,5404,5,34,6
+"772",772,"Chile crece Contigo Portezuelo",16,16205,3,10,1
+"773",773,"Escuela de verano Petorca",5,5404,5,40,6
+"774",774,"ESCUELA DE VERANO",16,16201,5,15,1
+"775",775,"chile crece contigo",16,16108,2,10,6
+"776",776,"OPD San Antonio",5,5601,5,23,3
+"777",777,"OFICINA DE PROTECCIÓN DE DERECHOS DE PIRQUE",13,13202,3,6,3
+"778",778,"Programa Chile Crece Contigo",16,16101,5,9,1
+"779",779,"Escuela de verano Colegio El Melón",5,5506,2,24,1
+"780",780,"Chile Crece san Carlos",16,16301,2,13,1
+"781",781,"Oficina de Protección de Derechos Paacha Pauna",3,3103,2,31,1
+"782",782,"Francisco Urrutia Urrutia",7,7403,2,9,1
+"783",783,"Oficina de Protección de Derechos de Pirque",13,13202,3,7,3
+"784",784,"Participantes de Escuela de Verano",16,16304,5,10,6
+"785",785,"Taller de Karate",16,16202,3,5,6
+"786",786,"Municipalidad de Coihueco",16,16302,3,10,1
+"787",787,"Subsecretaria Ninez Bio  Bio Ninos y Ninas Chiguayante",8,8103,2,6,6
+"788",788,"Oficina Local de la Niñez",16,16107,3,28,6
+"789",789,"Oficina de Proteccion de Derechos de Pirque",13,13202,3,6,3
+"790",790,"Oficina de Protección de Derechos de Pirque",13,13202,2,8,3
+"791",791,"Oficina de Protección de Derechos de Pirque",13,13202,2,7,3
+"792",792,"Oficina de Protección de Derechos de Pirque",13,13202,1,8,3
+"793",793,"CNCt",7,7407,3,20,1
+"794",794,"CHCC y Centros para hijos e hijas de cuidadores principales temporeros",7,7203,2,8,6
+"795",795,"ADRA Chile",8,8101,5,4,5
+"796",796,"OFICINA PROTECCIÓN DE DERECHOS DE NIÑEZ Y JVENTUDSAN JOAQUIN",13,13129,5,11,3
+"797",797,"Municipalidad de Rauco y CHCC",7,7305,1,20,1
+"798",798,"Escuela verano 2020 Municipalidad de Chillan Viejo",16,16103,2,17,1
+"799",799,"OPD LOS ANGELES",8,8301,4,11,3
+"800",800,"Municipalidad de Salamanca",4,4204,2,9,1
+"801",801,"GOBERNACION ISLA DE PASCUA",5,5201,3,20,3
+"802",802,"subse ninez Bio Bio CNCPT",8,8304,3,30,1
+"803",803,"subse ninez Bio Bio CNCPT",8,8313,3,24,1
+"804",804,"subse ninez Bio Bio CNCPT",8,8312,3,22,1
+"805",805,"subse ninez Bio Bio CNCPT",8,8106,3,21,1
+"806",806,"Chile Crece Contigo",13,13127,1,15,1
+"807",807,"PROGRAMA LIBERTAD ASISTIDA SOLA SIERRA HENRIQUEZ",2,2101,4,3,5
+"808",808,"OPD LO PRADO",13,13117,3,50,3
+"809",809,"CIP CRC CORONEL",8,8102,4,30,5
+"810",810,"Dirección Regional SENAME",13,13120,4,9,5
+"811",811,"PPF ARAUCARIA",8,8105,1,6,5
+"812",812,"PPF ARAUCARIA",8,8105,2,14,5
+"813",813,"Oficina de Protección de Derechos OPD Ilustre Municipalidad de El Bosque",13,13105,1,15,6
+"814",814,"Oficina de Protección de Derechos OPD Ilustre Municipalidad de El Bosque",13,13105,5,22,2
+"815",815,"OFICINA DE PROTECCIÓN DE DERECHOS OPD VALLE DEL SOL",16,16102,2,10,6
+"816",816,"OFICINA DE PROTECCIÓN DE DERECHOS OPD VALLE DEL SOL",16,16102,3,10,6
+"817",817,"Grupos de adolescentes de liceo de Hualañe",7,7302,4,6,1
+"818",818,"grupo de alumnas",7,7302,4,7,1
+"819",819,"SBC Luis Emilio Recabarren",2,2101,4,3,5
+"820",820,"CNCPT NANCAGUA 2020",6,6305,5,42,1
+"821",821,"Programa Medidas Cautelares Antofagasta",2,2101,4,10,5
+"822",822,"CHCC Laja",8,8304,2,13,1
+"823",823,"OPD",13,13203,4,10,3
+"824",824,"Chile crece contigo",10,10305,1,21,6
+"825",825,"OPD",13,13203,3,10,3
+"826",826,"Consejo Consultivo de NNA OPD Temuco",9,9101,4,9,2
+"827",827,"OPD Temuco",9,9101,5,172,3
+"828",828,"SENAME CSC RANCAGUA",6,6101,5,6,5
+"829",829,"hijos de familias pertenecientes al Programa Seguridades y Oportunidades del FOSIS",10,10105,2,14,6
+"830",830,"Programa Fortalecimiento Municipal Comuna de Guaitecas",11,11203,5,6,6
+"831",831,"OPD TIL TIL",13,13303,4,6,3
+"832",832,"SENAME",13,13120,4,7,6
+"833",833,"Chile Crece Contigo Peñaflor",13,13605,2,10,6
+"834",834,"OPD Andacollo",4,4103,4,4,6
+"835",835,"Programa MCA Fundación DEM",13,13108,4,6,5
+"836",836,"Consejo Consultivo de Alto del Carmen",3,3302,3,18,3
+"837",837,"Centro Internación Provisoria y Regimen Cerrado",6,6106,4,12,5
+"838",838,"Consejor Asesor Regional de NNA Sename",9,9101,5,3,2
+"839",839,"Ciudad del Niño",9,9201,4,7,5
+"840",840,"Ciudad del Niño",9,9201,4,9,5
+"841",841,"Ciudad del Niño",9,9201,4,7,5
+"842",842,"Ciudad del Niño",9,9201,4,5,5
+"843",843,"Ciudad del Niño",9,9201,4,7,5
+"844",844,"Chile Crece Contigo",5,5104,2,8,6
+"845",845,"Ciudad del Niño",9,9201,4,9,5
+"846",846,"OPD 24 HORAS Conchalí",13,13104,5,281,1
+"847",847,"OPD 24 HORAS Conchalí",13,13104,5,30,3
+"848",848,"OPD 24 HORAS Conchalí",13,13104,5,70,3
+"849",849,"OPD ANCUD",10,10202,2,10,5
+"850",850,"OPD COQUIMBO SENAME",4,4102,2,6,3
+"851",851,"OPD ANCUD",10,10202,3,3,5
+"852",852,"CECOSF Norte Grande",14,14101,2,20,6
+"853",853,"Municipalidad de Concón",5,5103,2,10,6
+"854",854,"Municipalidad de Concón",5,5103,2,10,6
+"855",855,"Municipalidad de Concón",5,5103,2,10,6
+"856",856,"Municipalidad de Concón",5,5103,2,10,6
+"857",857,"Municipalidad de Concón",5,5103,3,10,6
+"858",858,"Municipalidad de Concón",5,5103,3,10,6
+"859",859,"Municipalidad de Concón",5,5103,3,10,6
+"860",860,"Municipalidad de Concón",5,5103,3,10,6
+"861",861,"Centro Semicerrado Concepción",8,8101,4,5,5
+"862",862,"OPD 24 HORAS RENCA",13,13128,5,50,3
+"863",863,"Oficina de Protección de Derechos de la Infancia y adolescencia",2,2104,3,62,3
+"864",864,"OPD MANOS UNIDAS",16,16201,3,18,3

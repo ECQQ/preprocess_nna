@@ -8,7 +8,7 @@ library(readxl)
 # obtenemos datos mesa 
 var_diags <- read_excel("input/nna_resulta.xlsx",
                         sheet = "base") %>% select(ORDEN,everything()) %>%
-  janitor::clean_names() %>% select(-c(2,8))
+  janitor::clean_names()
 
 var_diags$organizacion <- tolower(var_diags$organizacion)
 

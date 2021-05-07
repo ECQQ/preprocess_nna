@@ -17,5 +17,5 @@ Los archivos sueltos trabajan e interactuan con cada una de estas carpetas, entr
 
 **R**:
 
-- generate_column_institutions.R: Genera una nueva columna estandarizando las instituciones.
+- add_labels.R: Agrega etiquetas a variables *contexto_id* y *rangos_edad_id*.
 - script_to_csv_dash.R: Genera los *.csv* definitivos para la visualización del Dashboard

@@ -29,4 +29,4 @@ var_diags$contexto_id[var_diags$contexto_id==5] <- "Programa Sename"
 var_diags$contexto_id[var_diags$contexto_id==6] <- "Otro"
 
 
-writexl::write_xlsx(var_diags2,"temp/var_diags2_inst.xlsx")
+writexl::write_xlsx(var_diags,"temp/var_diags2_inst.xlsx")
